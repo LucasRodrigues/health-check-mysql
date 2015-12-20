@@ -1,5 +1,7 @@
 # Health Check Mssql
 
+Health check to system [mysql](https://www.mysql.com/)
+
 ## CI
 [![Circle CI](https://circleci.com/gh/LucasRodrigues/health-check-mysql.svg?style=svg)](https://circleci.com/gh/LucasRodrigues/health-check-mysql)
 
