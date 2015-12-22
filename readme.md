@@ -1,4 +1,4 @@
-# Health Check Mssql
+# Health Check Mysql
 
 Health check to system [mysql](https://www.mysql.com/)
 
@@ -13,10 +13,10 @@ $ npm install health-check-mysql
 
 ## Usage
 
-```
-var healthCheckMssql = require('health-check-mysql');
+```js
+var healthCheckMysql = require('health-check-mysql');
 
-healthCheckMssql.do([
+healthCheckMysql.do([
   {
     server: 'validServer',
     user: 'validUser',
